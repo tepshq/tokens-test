@@ -87,6 +87,15 @@
           }
         }
       }
+    },
+    "test typography": {
+      "value": {
+        "fontWeight": "500",
+        "lineHeight": "1.5",
+        "fontSize": "1rem",
+        "paragraphSpacing": "2rem"
+      },
+      "type": "typography"
     }
   },
   "button": {
