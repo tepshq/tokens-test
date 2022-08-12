@@ -22,7 +22,10 @@
   --figma-core-core-colors-grey-600: #4b5563;
   --figma-core-core-colors-grey-700: #374151;
   --figma-core-core-colors-grey-800: #1f2937;
-  --figma-core-core-colors-grey-900: #111827;
+  --figma-core-core-colors-grey-900: #fa0606;
+  --figma-core-core-colors-blue-simple: #010de5;
+  --figma-core-test-typography: [object Object];
+  --figma-core-red: #d1fae5;
   --figma-core-colors-primary-50: #ecfdf5;
   --figma-core-colors-primary-100: #d1fae5;
   --figma-core-colors-primary-200: #a7f3d0;
