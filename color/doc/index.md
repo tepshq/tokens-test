@@ -28,9 +28,21 @@ export const primary = () => html`
 Secondary colors of our brand.
 
 ```js story
-export const secondary = () => html`
+export const grey = () => html`
   <dockit-css-showcases
     css-props-prefix="--figma-core-colors-grey"
+    component-class="box"
+    style-key="background-color"
+  ></dockit-css-showcases>
+`;
+```
+
+### Blue colors
+
+```js story
+export const blue = () => html`
+  <dockit-css-showcases
+    css-props-prefix="--figma-core-colors-blue"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>

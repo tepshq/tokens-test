@@ -87,7 +87,7 @@
           }
         },
         "blue": {
-          "simple": {
+          "500": {
             "value": "#010de5",
             "type": "color"
           }
@@ -103,10 +103,6 @@
       },
       "type": "typography"
     },
-    "red": {
-      "value": "{core.colors.primary.100}",
-      "type": "color"
-    }
   },
   "button": {
     "button": {
