@@ -85,6 +85,12 @@
             "value": "#111827",
             "type": "color"
           }
+        },
+        "blue": {
+          "simple": {
+            "value": "#010de5",
+            "type": "color"
+          }
         }
       }
     },
@@ -96,6 +102,10 @@
         "paragraphSpacing": "2rem"
       },
       "type": "typography"
+    },
+    "red": {
+      "value": "{core.colors.primary.100}",
+      "type": "color"
     }
   },
   "button": {
