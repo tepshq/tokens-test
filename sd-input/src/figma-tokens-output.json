@@ -38,10 +38,6 @@
           "800": {
             "value": "#065f46",
             "type": "color"
-          },
-          "900": {
-            "value": "#064e3b",
-            "type": "color"
           }
         },
         "grey": {
@@ -87,8 +83,12 @@
           }
         },
         "blue": {
-          "simple": {
+          "500": {
             "value": "#010de5",
+            "type": "color"
+          },
+          "600": {
+            "value": "#050958",
             "type": "color"
           }
         }
@@ -103,10 +103,6 @@
       },
       "type": "typography"
     },
-    "red": {
-      "value": "{core.colors.primary.100}",
-      "type": "color"
-    }
   },
   "button": {
     "button": {
