@@ -38,10 +38,6 @@
           "800": {
             "value": "#065f46",
             "type": "color"
-          },
-          "900": {
-            "value": "#064e3b",
-            "type": "color"
           }
         },
         "grey": {
